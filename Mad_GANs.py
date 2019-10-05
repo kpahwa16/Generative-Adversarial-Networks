@@ -174,7 +174,3 @@ p1 = plt.hist(final, 200, normed=True, histtype='bar', alpha=0.5)
 p2 = plt.hist(data, 200, normed=True, histtype='bar', alpha=0.5)
 
 
-# ## Points to ponder
-# 1. What happens if we reduce the number of generator?
-# 2. What happens if we change the learning rate and other parameters?
-# 3. What happens if we change the noise distribution?
